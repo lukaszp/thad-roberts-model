@@ -1,5 +1,5 @@
-# Thads Robarts Model Library
-Thads Robarts Model Library was built to check the properties, validity and level of confidence of Thads Robarts Model particles masses equations presented here:
+# Thads Roberts Model Library
+Thads Roberts Model Library was built to check the properties, validity and level of confidence of Thads Roberts Model particles masses equations presented here:
 
 https://vortex.institute/wp-content/uploads/2020/03/The-Boundaries-of-Fluid-Quantization-Draft-2020-03-30.pdf
 
@@ -18,7 +18,7 @@ ThadRobertsModel().verify()
 
 is called.
 
-Above report shows that Thads Robarts Model is in agreement with physical mass data in the error range, but confidence level of this agreement is very low.
+Above report shows that Thads Roberts Model is in agreement with physical mass data in the error range, but confidence level of this agreement is very low.
 Only one equation with NEUTRON, PROTON and ELECTRON gives 6 digit accuracy for RS+3+Pi constant in base 10 system.
 One equation gives 2 digits accuracy, and three other equations give 1 digit accuracy.
 There is also other unrelated question regarding reliability of mass measurement due to renormalization problem, but it is not a topic for this library.
