@@ -1,0 +1,11 @@
+/*.egg-info
+
+/build
+/dist
+
+/Pipfile
+/Pipfile.lock
+
+/.project
+/.pydevproject
+
