@@ -6,6 +6,11 @@
 /Pipfile
 /Pipfile.lock
 
+/tests/.hypothesis
+/tests/__pycache__
+
 /.project
 /.pydevproject
+
+
 
