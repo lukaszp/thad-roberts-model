@@ -40,3 +40,6 @@ Only one equation for NEUTRON, PROTON, ELECTRON triplet gives 6 digit accuracy f
 One equation gives 2 digits accuracy, and three other equations give 1 digit accuracy.
 There is also a question regarding reliability of mass measurement due to renormalization problem, but it is not a topic for this library.
 Due to big errors of mass measurement and renormalization problem it will be very difficult to verify experimentally Thads Roberts Model masses equations except for the NEUTRON, PROTON, ELECTRON triplet.
+
+## Versioning strategy
+[revolutionary].[API].[code].[doc]
