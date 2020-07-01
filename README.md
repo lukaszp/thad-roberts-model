@@ -33,7 +33,7 @@ is called.
 ## Results discussion
 
 Above report shows that Thads Roberts Model is in agreement with physical mass data in the error range, but confidence level of equality with RS+3+Pi value is low for all except one equation.
-Only one equation for NEUTRON, PROTON, ELECTRON triplet gives 6 digit accuracy for RS+3+Pi constant in base 10 system, which is very good result, but this is the only equation with such good agreement.
+Only one equation for NEUTRON, PROTON, ELECTRON triplet gives 6 digit accuracy for RS+3+Pi constant in base 10 system, which is very good result, but this is the only equation with such a good agreement.
 One equation gives 2 digits accuracy, and three other equations give 1 digit accuracy.
 There is also a question regarding reliability of mass measurement due to renormalization problem, but it is not a topic for this library.
 Due to big errors of mass measurement and renormalization problem it will be very difficult to verify experimentally Thads Roberts Model masses equations except for the NEUTRON, PROTON, ELECTRON triplet.
