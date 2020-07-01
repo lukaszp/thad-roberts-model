@@ -4,7 +4,7 @@ with open("README.md", "r") as readme_file:
     long_description = readme_file.read()
 
 setuptools.setup(name="thad-roberts-model",
-      version = '0.1.5.2',
+      version = '0.1.6.1',
       description = "Thad Roberts Model Library",
       long_description = long_description,
       long_description_content_type = "text/markdown",
@@ -18,4 +18,4 @@ setuptools.setup(name="thad-roberts-model",
       classifiers = ["Programming Language :: Python :: 3",
                      "License :: OSI Approved :: MIT License",
                      "Operating System :: OS Independent"],
-      python_requires = '>=3.8')
+      python_requires = '>=3.7')
