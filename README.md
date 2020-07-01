@@ -4,6 +4,9 @@ Thads Roberts Model Library was built to check the properties, validity and leve
 
 https://vortex.institute/wp-content/uploads/2020/03/The-Boundaries-of-Fluid-Quantization-Draft-2020-03-30.pdf
 
+and developed by organization called Vortex Institute (https://vortex.institute).
+The model is also sometimes called as Non-Viscous Quantum Fluid Theory.
+
 For the purpose of this library we will name Ramanujan-Soldner constant with RS abbreviation, and N real solution to the simple vortex equation as RSSVE_N.
 The idea is to calculate values of RS+3+Pi predicted by each equation with error range, and confront it with exact RS+3+Pi value.
 Particle masses are taken from NIST 2018 standard with symmetric error as a max of asymmetric errors if asymmetry is present.
